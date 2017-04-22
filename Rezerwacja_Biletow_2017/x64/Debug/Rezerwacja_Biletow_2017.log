@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\zapio\documents\visual studio 2017\projects\rezerwacja_biletow_2017\rezerwacja_biletow_2017\tsala.h(94): warning C4715: "Tsala<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::czy_wolne”: niewszystkie ścieżki kodu zwracają wartość
+  Rezerwacja_Biletow_2017.vcxproj -> C:\Users\zapio\Documents\Visual Studio 2017\Projects\Rezerwacja_Biletow_2017\x64\Debug\Rezerwacja_Biletow_2017.exe
+  Rezerwacja_Biletow_2017.vcxproj -> C:\Users\zapio\Documents\Visual Studio 2017\Projects\Rezerwacja_Biletow_2017\x64\Debug\Rezerwacja_Biletow_2017.pdb (Partial PDB)
